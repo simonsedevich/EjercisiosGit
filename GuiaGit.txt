@@ -1,0 +1,2 @@
+Este un ejemplo para el primer ejercicio de la guia de git
+
