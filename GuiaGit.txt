@@ -1,2 +1,3 @@
-Este un ejemplo para el primer ejercicio de la guia de git
+Este un ejemplo para el primer ejercicio de la guia de git MODIFICADO POR PRIMERA VEZ 
+
 
